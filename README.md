@@ -36,5 +36,5 @@ This Python script is used to export Zabbix templates from a Zabbix server and p
 Run the script:
 
 ```sh
-python script_name.py
+python zabbix_template_export.py
 ```
